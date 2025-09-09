@@ -57,5 +57,5 @@ ACC = 0.9800 NMI = 0.9357 PUR=0.9800 ARI = 0.9506
 
 Work&Code is inspired by [MFLVC](https://github.com/SubmissionsIn/MFLVC), [CONAN](https://github.com/Guanzhou-Ke/conan), [CoMVC](https://github.com/DanielTrosten/mvc) ... 
 
-
+If you have any problems, contact me via qijian.zhu@outlook.com.
 
