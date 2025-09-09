@@ -24,7 +24,31 @@ The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folde
 ```bash
 python train.py
 ```
-- an example  for test the trained model:
+
+- You can get the following output:
+
+```bash
+Epoch 285 Loss:14.258701
+Epoch 286 Loss:14.277878
+Epoch 287 Loss:14.265236
+Epoch 288 Loss:14.249377
+Epoch 289 Loss:14.250543
+Epoch 290 Loss:14.231292
+Epoch 291 Loss:14.204707
+Epoch 292 Loss:14.229280
+Epoch 293 Loss:14.224252
+Epoch 294 Loss:14.226442
+Epoch 295 Loss:14.225920
+Epoch 296 Loss:14.204377
+Epoch 297 Loss:14.204086
+Epoch 298 Loss:14.188799
+Epoch 299 Loss:14.208624
+Epoch 300 Loss:14.205029
+---------train over---------
+Clustering results:
+ACC = 0.9800 NMI = 0.9357 PUR=0.9800 ARI = 0.9506
+```
+
   
 
 
