@@ -3,6 +3,7 @@
 Jian Zhu, Xin Zou, Xi Wang, Ning Zhang, Bian Wu, Yao Yang, Ying Zhou, Lingfang Zeng, Chang Tang, Cheng Luo. 
 
 This paper is submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP2026).
+ [Generative Diffusion Contrastive Network for Multi-View Clustering](https://arxiv.org/abs/2509.09527)
 
 
 ## 1.Requirements
