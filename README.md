@@ -1,6 +1,6 @@
 ## Generative Diffusion Contrastive Network for Multi-View Clustering
 > **Authors:**
-Jian Zhu, Xin Zou, Xi Wang, Ning Zhang, Bian Wu, Yao Yang, Ying Zhou, Lingfang Zeng, Chang Tang, Cheng Luo. 
+Jian Zhu, Xin Zou, Xi Wang, Lei Liu, Chang Tang, Li-Rong Dai. 
 
 This paper is submitted to the International Conference on Acoustics, Speech, and Signal Processing (ICASSP2026).
  [Generative Diffusion Contrastive Network for Multi-View Clustering](https://arxiv.org/abs/2509.09527)
