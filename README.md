@@ -2,8 +2,8 @@
 > **Authors:**
 Jian Zhu, Xin Zou, Xi Wang, Lei Liu, Chang Tang, Li-Rong Dai. 
 
-This paper is submitted to the International Conference on Acoustics, Speech, and Signal Processing (ICASSP2026).
- [Generative Diffusion Contrastive Network for Multi-View Clustering](https://arxiv.org/abs/2509.09527)
+This paper has been accepted by IEEE Signal Processing Letters.
+ [Generative Diffusion Contrastive Network for Multi-View Clustering](https://ieeexplore.ieee.org/document/11417174)
  
 ## 1. Abstract
 In recent years, Multi-View Clustering (MVC) has been significantly advanced under the influence of deep learning. By integrating heterogeneous data from multiple views, MVC enhances clustering analysis, making multi-view fusion critical to clustering performance. However, there is a problem of low-quality data in multi-view fusion. This problem primarily arises from two reasons: 1) Certain views are contaminated by noisy data. 2) Some views suffer from missing data. This paper proposes a novel Stochastic Generative Diffusion Fusion (SGDF) method to address this problem. SGDF leverages a multiple generative mechanism for the multi-view feature of each sample. It is robust to low-quality data. Building on SGDF, we further present the Generative Diffusion Contrastive Network (GDCN). Extensive experiments show that GDCN achieves the state-of-the-art results in deep MVC tasks. The source code is publicly available at https://github.com/HackerHyper/GDCN.
